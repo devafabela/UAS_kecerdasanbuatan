@@ -1,4 +1,4 @@
-# UAS_kecerdasanbuatan
+# uas_kecerdasanbuatan2
 
 Bedah Jurnal Machine Learning
 Prediksi Harga Rumah Menggunakan Multiple Linear Regression
